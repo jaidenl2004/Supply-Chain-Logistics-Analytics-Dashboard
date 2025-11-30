@@ -1,0 +1,42 @@
+Total Cost:401911.57
+
+Total Shipments: 2000
+
+Avg cost per mile: 0.0
+
+ Avg transit days:4.61839430894309
+
+
+Carrier on time percentages:
+USPS:92.81
+LaserShip:91.42
+FedEx:91.19
+UPS:90.63
+OnTrac:90.3
+Amazon Logistics:87.59
+DHL:86.12
+
+Carrier total cost:
+FedEx	:64081.99
+LaserShip:61525.94
+DHL:61087.06
+UPS:57658.35
+OnTrac:54456.71
+Amazon Logistics:51773.77
+USPS:51327.75
+
+Average cost by weigth category
+null:	191.031428571429
+Heavy	:199.353567839196
+Light:176.110444444444
+Medium:191.510377777778
+Very Heavy:291.964928909953
+
+Delay count by carrier
+DHL:39
+Amazon Logistics:34
+OnTrac:29
+LaserShip:26
+FedEx	:26
+UPS:24
+USPS:21
